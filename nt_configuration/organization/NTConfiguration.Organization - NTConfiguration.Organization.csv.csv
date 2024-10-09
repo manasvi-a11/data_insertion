@@ -1,0 +1,15 @@
+title,iconPath,rank
+Hospital,assets/admin/Organization_Hospital1.png,1
+Pharmacy,assets/admin/Organization_Pharmacy1.png,2
+Diagnostic Centre,assets/admin/Organization_Diagnostic_centre1.png,3
+Clinic,assets/admin/Organization_Clinic1.png,4
+Insurance,assets/admin/Organization_Insurance1.png,5
+Pharmaceutical,assets/admin/Organization_Pharmaceutical1.png,6
+Research & Educational Institution,assets/admin/Organization_Reasearch&Educational_Institution1.png,7
+Telemedicine,assets/admin/Organization_Telemedicine1.png,8
+Medical Devices & Equipment,assets/admin/Organization_MedicalDevice1.png,9
+Biotechnology,assets/admin/Organization_Biotechnology1.png,10
+Blood Bank,assets/admin/Organization_Blood_bank1.png,11
+Rehabilitation Centre,assets/admin/Organization_Rehabilation_centre1.png,12
+Healthcare IT,assets/admin/Organization_Healthcare_IT1.png,13
+Others,,14

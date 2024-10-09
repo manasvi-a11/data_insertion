@@ -1,0 +1,20 @@
+title,iconPath,rank
+Doctor,assets/admin/Profession_Doctor.png,1
+Nurse,assets/admin/Profession_Nurse.png,2
+Dentist,assets/admin/Profession_Dentist.png,3
+Management / Administrator,assets/admin/Profession_Management.png,4
+Paramedical / Technician,assets/admin/Profession_Paramedic.png,5
+ICU / OT Staff,assets/admin/Profession_ICU&OT.png,6
+Critical Care / Emergency Technicians & Staff,assets/admin/Profession_Emergency.png,7
+Physiotherapy,assets/admin/Profession_Physiotherapy.png,8
+Pharmacist,assets/admin/Profession_Pharmacist.png,9
+Human Resources,assets/admin/Profession_Human_resource.png,10
+Accounts & Auditing,assets/admin/Profession_Accounts.png,11
+Billing & Insurance,assets/admin/Profession_Insurance.png,12
+PR & Marketing,assets/admin/Profession_PR_and_Marketing.png,14
+Facility Maintanence / Engineering,assets/admin/Profession_Maintenance.png,13
+Biomedical Staff,assets/admin/Profession_Biomedical_Staff.png,15
+IT & Medical Records,assets/admin/Profession_IT&Medical_Records.png,16
+Dietitian,assets/admin/Profession_Dieticians.png,17
+Lab & Radiology,assets/admin/Profession_Lab&Radiology.png,18
+Others,,19

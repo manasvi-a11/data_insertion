@@ -1,0 +1,92 @@
+Nurse,Registered Nurse,Pediatric Nurse,Critical Care Nurse,Emergency Nurse,Oncology Nurse,Cardiac Nurse,Geriatric Nurse,Neonatal Nurse,Psychiatric Nurse,Certified Nurse Midwife,Surgical Nurse,Family Nurse Practitioner,Womens Health Nurse Practitioner,Public Health Nurse,Certified Registered Nurse Anesthetist,School Nurse,Occupational Health Nurse,Hospice Nurse,Infection Control Nurse,Travel Nurse,Home Health Nurse,Diabetes Nurse Educator
+Registered Nurse,Licensed Practical Nurse,Pediatric Nurse Practitioner,Intensive Care Unit Nurse,Emergency Room Nurse,Oncology Nurse Practitioner,Cardiac Care Nurse,Gerontological Nurse,Neonatal Intensive Care Unit Nurse,Mental Health Nurse,Nurse Midwife,Operating Room Nurse,Family Health Nurse,Obstetrics and Gynecology Nurse,Community Health Nurse,Nurse Anesthetist,Pediatric School Nurse,Workplace Health Nurse,Palliative Care Nurse,Infection Prevention Nurse,Travel RN,Home Care Nurse,Rehabilitation Nurse
+Licensed Practical Nurse,Licensed Vocational Nurse,Pediatric Clinical Nurse Specialist,Critical Care Nurse Practitioner,Trauma Nurse,Cancer Care Nurse,Cardiovascular Nurse,Geriatric Nurse Practitioner,Neonatal Nurse Practitioner,Psychiatric Nurse Practitioner,Midwifery Nurse,Perioperative Nurse,Primary Care Nurse Practitioner,Women’s Health Nurse,Public Health Nurse Practitioner,Anesthesia Nurse,School Health Nurse,Occupational Nurse Practitioner,End of Life Care Nurse,Infectious Disease Nurse,Contract Nurse,Visiting Nurse,Clinical Nurse Leader
+Licensed Vocational Nurse,Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,Transplant Nurse
+Nurse Practitioner,Clinical Nurse Specialist,,,,,,,,,,,,,,,,,,,,,Telehealth Nurse
+Clinical Nurse Specialist,Advanced Practice Registered Nurse,,,,,,,,,,,,,,,,,,,,,Forensic Nurse
+Advanced Practice Registered Nurse,Staff Nurse,,,,,,,,,,,,,,,,,,,,,Nurse Informaticist
+Staff Nurse,Nurse Clinician,,,,,,,,,,,,,,,,,,,,,Flight Nurse
+Nurse Clinician,Nurse Educator,,,,,,,,,,,,,,,,,,,,,Triage Nurse
+Nurse Educator,Nurse Manager,,,,,,,,,,,,,,,,,,,,,Research Nurse
+Nurse Manager,Nursing Supervisor,,,,,,,,,,,,,,,,,,,,,Pain Management Nurse
+Nursing Supervisor,,,,,,,,,,,,,,,,,,,,,,Wound Care Nurse
+Pediatric Nurse,,,,,,,,,,,,,,,,,,,,,,Radiology Nurse
+Pediatric Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,IV Therapy Nurse
+Pediatric Clinical Nurse Specialist,,,,,,,,,,,,,,,,,,,,,,Nephrology Nurse
+Critical Care Nurse,,,,,,,,,,,,,,,,,,,,,,Dialysis Nurse
+Intensive Care Unit Nurse,,,,,,,,,,,,,,,,,,,,,,Dermatology Nurse
+Critical Care Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Emergency Nurse,,,,,,,,,,,,,,,,,,,,,,
+Emergency Room Nurse,,,,,,,,,,,,,,,,,,,,,,
+Trauma Nurse,,,,,,,,,,,,,,,,,,,,,,
+Oncology Nurse,,,,,,,,,,,,,,,,,,,,,,
+Oncology Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Cancer Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+Cardiac Nurse,,,,,,,,,,,,,,,,,,,,,,
+Cardiac Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+Cardiovascular Nurse,,,,,,,,,,,,,,,,,,,,,,
+Cardiac Nurse,,,,,,,,,,,,,,,,,,,,,,
+Cardiac Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+Cardiovascular Nurse,,,,,,,,,,,,,,,,,,,,,,
+Geriatric Nurse,,,,,,,,,,,,,,,,,,,,,,
+Gerontological Nurse,,,,,,,,,,,,,,,,,,,,,,
+Geriatric Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Surgical Nurse,,,,,,,,,,,,,,,,,,,,,,
+Operating Room Nurse,,,,,,,,,,,,,,,,,,,,,,
+Perioperative Nurse,,,,,,,,,,,,,,,,,,,,,,
+Neonatal Nurse,,,,,,,,,,,,,,,,,,,,,,
+Neonatal Intensive Care Unit Nurse,,,,,,,,,,,,,,,,,,,,,,
+Neonatal Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Family Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Family Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Primary Care Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Psychiatric Nurse,,,,,,,,,,,,,,,,,,,,,,
+Mental Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Psychiatric Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Women’s Health Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Obstetrics and Gynecology Nurse,,,,,,,,,,,,,,,,,,,,,,
+Women’s Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Certified Nurse Midwife,,,,,,,,,,,,,,,,,,,,,,
+Nurse Midwife,,,,,,,,,,,,,,,,,,,,,,
+Midwifery Nurse,,,,,,,,,,,,,,,,,,,,,,
+Public Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Community Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Public Health Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Certified Registered Nurse Anesthetist,,,,,,,,,,,,,,,,,,,,,,
+Nurse Anesthetist,,,,,,,,,,,,,,,,,,,,,,
+Anesthesia Nurse,,,,,,,,,,,,,,,,,,,,,,
+School Nurse,,,,,,,,,,,,,,,,,,,,,,
+Pediatric School Nurse,,,,,,,,,,,,,,,,,,,,,,
+School Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Occupational Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Workplace Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Occupational Nurse Practitioner,,,,,,,,,,,,,,,,,,,,,,
+Hospice Nurse,,,,,,,,,,,,,,,,,,,,,,
+Palliative Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+End of Life Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+Infection Control Nurse,,,,,,,,,,,,,,,,,,,,,,
+Infection Prevention Nurse,,,,,,,,,,,,,,,,,,,,,,
+Infectious Disease Nurse,,,,,,,,,,,,,,,,,,,,,,
+Travel Nurse,,,,,,,,,,,,,,,,,,,,,,
+Travel RN,,,,,,,,,,,,,,,,,,,,,,
+Contract Nurse,,,,,,,,,,,,,,,,,,,,,,
+Home Health Nurse,,,,,,,,,,,,,,,,,,,,,,
+Home Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+Visiting Nurse,,,,,,,,,,,,,,,,,,,,,,
+Diabetes Nurse Educator,,,,,,,,,,,,,,,,,,,,,,
+Rehabilitation Nurse,,,,,,,,,,,,,,,,,,,,,,
+Clinical Nurse Leader,,,,,,,,,,,,,,,,,,,,,,
+Transplant Nurse,,,,,,,,,,,,,,,,,,,,,,
+Telehealth Nurse,,,,,,,,,,,,,,,,,,,,,,
+Forensic Nurse,,,,,,,,,,,,,,,,,,,,,,
+Nurse Informaticist,,,,,,,,,,,,,,,,,,,,,,
+Flight Nurse,,,,,,,,,,,,,,,,,,,,,,
+Triage Nurse,,,,,,,,,,,,,,,,,,,,,,
+Research Nurse,,,,,,,,,,,,,,,,,,,,,,
+Pain Management Nurse,,,,,,,,,,,,,,,,,,,,,,
+Wound Care Nurse,,,,,,,,,,,,,,,,,,,,,,
+Radiology Nurse,,,,,,,,,,,,,,,,,,,,,,
+IV Therapy Nurse,,,,,,,,,,,,,,,,,,,,,,
+Nephrology Nurse,,,,,,,,,,,,,,,,,,,,,,
+Dialysis Nurse,,,,,,,,,,,,,,,,,,,,,,
+Dermatology Nurse,,,,,,,,,,,,,,,,,,,,,,
